@@ -65,6 +65,7 @@ namespace _110_1Practice4_1 {
                 b_IsBingo = true;
             }
             return i_NumA.ToString() + "A" + i_NumB.ToString() + "B";
+            eee
         }
     }
 }
